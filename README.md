@@ -1,6 +1,6 @@
 # Basic Javascript Knowledge Before React
 
-## Reference : JavaScript Basics Before You Learn React by Nathan Sebhastian (https://dev.to/nsebhastian/javascript-basics-before-you-learn-react-38en#es6-classes)
+#### *Reference : JavaScript Basics Before You Learn React by Nathan Sebhastian (https://dev.to/nsebhastian/javascript-basics-before-you-learn-react-38en#es6-classes)
 
 1. Javascript Feature List
     1. ES6 classes
